@@ -1,0 +1,12 @@
+D:\adsk-malware\Adsk-Miner-Destroyer\bin\Debug\Adsk-Miner-Destroyer.exe.config
+D:\adsk-malware\Adsk-Miner-Destroyer\bin\Debug\Adsk-Miner-Destroyer.exe
+D:\adsk-malware\Adsk-Miner-Destroyer\bin\Debug\Adsk-Miner-Destroyer.pdb
+D:\adsk-malware\Adsk-Miner-Destroyer\obj\Debug\Adsk-Miner-Destroyer.csproj.AssemblyReference.cache
+D:\adsk-malware\Adsk-Miner-Destroyer\obj\Debug\Adsk_Miner_Destroyer.Form1.resources
+D:\adsk-malware\Adsk-Miner-Destroyer\obj\Debug\Adsk_Miner_Destroyer.Properties.Resources.resources
+D:\adsk-malware\Adsk-Miner-Destroyer\obj\Debug\Adsk-Miner-Destroyer.csproj.GenerateResource.cache
+D:\adsk-malware\Adsk-Miner-Destroyer\obj\Debug\Adsk-Miner-Destroyer.csproj.CoreCompileInputs.cache
+D:\adsk-malware\Adsk-Miner-Destroyer\obj\Debug\Adsk-Miner-Destroyer.exe
+D:\adsk-malware\Adsk-Miner-Destroyer\obj\Debug\Adsk-Miner-Destroyer.pdb
+D:\adsk-malware\Adsk-Miner-Destroyer\obj\Debug\Adsk_Miner_Destroyer.Form2.resources
+D:\adsk-malware\Adsk-Miner-Destroyer\obj\Debug\Adsk_Miner_Destroyer.Form3.resources
